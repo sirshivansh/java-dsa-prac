@@ -1,3 +1,5 @@
+package level1_core.conditionals;
+
 public class basicElseIf {
     public static void main(String[] args){
         int marks;

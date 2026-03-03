@@ -1,3 +1,5 @@
+package level1_core.variables;
+
 public class varChange{
     public static void main(String[] args){
         int price = 100;
